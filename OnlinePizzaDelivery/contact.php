@@ -25,7 +25,7 @@
           position: absolute;
         }
         .icon-badge-icon {
-          font-size: 30px;
+          font-size: 32px;
           color: rgb(0 0 0 / 50%);
           position: relative;
         }
